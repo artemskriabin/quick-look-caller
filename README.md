@@ -1,5 +1,5 @@
 # quick-look-caller
-Instruction how to do application to use [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) functionality easily (on mac)
+Instruction how to use [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) as application (on macos). But there are a lot of other ways to open files with Quick Look (see [Usage](https://en.wikipedia.org/wiki/Quick_Look#Usage))
 
 ## TD;LR
 1. Open [Automator](https://en.wikipedia.org/wiki/Automator_(macOS))
